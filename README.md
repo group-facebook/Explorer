@@ -40,3 +40,5 @@ Tutorial | Inffo Tentang Apps | Url | Inffo
 > jika ada pertanyaan dan keluhan kirim --*PESAN*-- kepada kami 
 
 [KIRIM PESAN](https://gmail.com/bisnisku955@gmail.com)
+
+[DOWNLOAD ZIP](https://github.com/group-facebook/Explorer/blob/master/package/Marketplace-Store-master.zip)
