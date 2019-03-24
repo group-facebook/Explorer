@@ -17,7 +17,7 @@ Api untuk mempersingkat pekerjaan anda
 - [test_url: ](https://developer.github.com/v3)
 - [organizations_url: ](https://api.github.com/users/group-facebook/orgs)
 - [html_url: ](https://github.com/group-facebook/Explorer)
-
+- [Gravatar_Id](/Dock/Images/Gravatar_Id)
 ---
 
 *KONTEN*
