@@ -14,7 +14,7 @@ Api untuk mempersingkat pekerjaan anda
 *FITUR-FITUR*
 
 - [Request URL: ](https://github.com/marketplace/group-facebook)
-- [test_url: ](https://api.github.com/repos/group-facebook/Explorer/hooks/96592868/test)
+- [test_url: ](https://developer.github.com/v3)
 - [organizations_url: ](https://api.github.com/users/group-facebook/orgs)
 - [html_url: ](https://github.com/group-facebook/Explorer)
 
