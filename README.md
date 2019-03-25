@@ -27,21 +27,21 @@ WELCOME    WELCOME    WELCOME    WELCOME    WELCOME    WELCOME    WELCOME     WE
    - [Instal](https://github.com/marketplace/group-facebook)
    
 ¤ [test_url: ]()
-    - [Start](https://developer.github.com/v3)
+   - [Start](https://developer.github.com/v3)
     
 ¤ [organizations_url: ]()
-    - [Lihat](https://api.github.com/users/group-facebook/orgs)
+   - [Lihat](https://api.github.com/users/group-facebook/orgs)
     
 ¤ [html_url: ]()
-     - [ html](https://github.com/group-facebook/Explorer)
+   - [ html](https://github.com/group-facebook/Explorer)
      
 ¤ [Gravatar_Id]()
-     - [Id](/Dock/Images/Gravatar_Id)
+   - [Id](/Dock/Images/Gravatar_Id)
      
 ¤ [Insigthts]()
-      - [Lihat](https://github.com/group-facebook/Explorer/pulse)
+   - [Lihat](https://github.com/group-facebook/Explorer/pulse)
       
-- [Code of Condut](/Dock/code-of-conduct.adoc)
+¤ [Code of Condut](/Dock/code-of-conduct.adoc)
 
 ---
 
