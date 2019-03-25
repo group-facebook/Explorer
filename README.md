@@ -13,6 +13,12 @@ Api untuk mempersingkat pekerjaan anda
 
 **SCREANSHOOT**
 
+```javascript
+WELCOME    WELCOME    WELCOME    WELCOME    WELCOME    WELCOME    WELCOME     WELCOME    WELCOME     WELCOME      WELCOME    WELCOME
+```
+
+
+
 ![screanshoot](https://github.com/group-facebook/Explorer/blob/master/Screnshoot/Screenshot_2019-03-25-01-15-06.png)
 
 *FITUR-FITUR*
