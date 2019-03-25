@@ -29,6 +29,7 @@ WELCOME    WELCOME    WELCOME    WELCOME    WELCOME    WELCOME    WELCOME     WE
 - [html_url: ](https://github.com/group-facebook/Explorer)
 - [Gravatar_Id](/Dock/Images/Gravatar_Id)
 - [Insigthts](https://github.com/group-facebook/Explorer/pulse)
+- [Code of Condut](/CODE_OF_CONDUCT.md)
 
 ---
 
