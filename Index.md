@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-   
-      <h1>Adamasalah&#;</h1>
+      <h1>Adamasalah</h1>
       <p>Peramban Anda melakukan sesuatu yang tidak terduga. Silakan hubungi kami jika masalah berlanjut.</p>
       <div id="Marketplace::Listing" a rhef="46821030">
         <a href="https://github.com/contact">Contact Support</a> &mdash;
