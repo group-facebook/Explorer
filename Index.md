@@ -2,8 +2,8 @@
 <html>
   <head>
    
-      <h1>What&#8253;</h1>
-      <p>Your browser did something unexpected. Please contact us if the problem persists.</p>
+      <h1>Ada masalah&#46821030;</h1>
+      <p>Peramban Anda melakukan sesuatu yang tidak terduga. Silakan hubungi kami jika masalah berlanjut.</p>
       <div id="suggestions">
         <a href="https://github.com/contact">Contact Support</a> &mdash;
         <a href="https://githubstatus.com">GitHub Status</a> &mdash;
