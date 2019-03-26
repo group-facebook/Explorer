@@ -1,0 +1,31 @@
+AllCops:
+  TargetHtmlVersion: *.
+  Exclude:
+    - '**/bin/**/*'
+    - '**/db/**/*'
+    - '**/script/setup'
+    - '**/vendor/**/*'
+    - '**/webhock/**/*'
+    - '**/Readme.md/**'
+
+Lint/AssignmentInCondition:
+  Enabled: false
+
+Metrics/BlockLength:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 100
+  IgnoredPatterns: ['\A\s*#']
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+
+Style/TrailingCommaInArrayLiteral:
+  EnforcedStyleForMultiline: consistent_comma
+
+Style/TrailingCommaInHashLiteral:
+  EnforcedStyleForMultiline: consistent_comma
