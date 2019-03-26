@@ -66,21 +66,6 @@ Tutorial | Inffo Tentang Apps | Url | Inffo
 [DOWNLOAD ZIP](https://github.com/group-facebook/Explorer/blob/master/package/Marketplace-Store-master.zip)
 
 ---
-
-From 8f4cdbf2f209f6eb473528862454e9c72bb4d7f9 Mon Sep 17 00:00:00 2001
-From: The Octocat <octocat@nowhere.com>
-Date: Sun, 27 Apr 2014 15:36:39 +0530
-Subject: [PATCH] updated index for better welcome message
-
----
- index.html | 4 ++--
- 1 file changed, 2 insertions(+), 2 deletions(-)
-
-diff --git a/index.html b/index.html
-index 35a7409..4643085 100644
---- a/index.html
-+++ b/index.html
-@@ -18,8 +18,8 @@
          <header class="inner">
            <a id="forkme_banner" href="https://github.com/marketplace/group-facebook">View Group Facebook</a>
    <a id="hook_id" href="/96151447">Hock Id</>
