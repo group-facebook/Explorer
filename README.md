@@ -64,3 +64,30 @@ Tutorial | Inffo Tentang Apps | Url | Inffo
 [KIRIM PESAN](https://gmail.com/bisnisku955@gmail.com)
 
 [DOWNLOAD ZIP](https://github.com/group-facebook/Explorer/blob/master/package/Marketplace-Store-master.zip)
+
+---
+
+From 8f4cdbf2f209f6eb473528862454e9c72bb4d7f9 Mon Sep 17 00:00:00 2001
+From: The Octocat <octocat@nowhere.com>
+Date: Sun, 27 Apr 2014 15:36:39 +0530
+Subject: [PATCH] updated index for better welcome message
+
+---
+ index.html | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/index.html b/index.html
+index 35a7409..4643085 100644
+--- a/index.html
++++ b/index.html
+@@ -18,8 +18,8 @@
+         <header class="inner">
+           <a id="forkme_banner" href="https://github.com/marketplace/group-facebook">View Group Facebook</a>
+ 
+-          <h1 id="project_title">Octocat.github.io</h1>
+-          <h2 id="project_tagline">Update Terbaru selalu tersedia</h2>
++          <h1 id="project_title">Selamat Datang Di GROUP FACEBOOK!</h1>
++          <h2 id="project_tagline">Pastikan untuk selalu mengingat halaman ini untuk melihat semua pembaruan terbaru saya</h2>
+ 
+         </header>
+     </div>
